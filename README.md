@@ -1,3 +1,7 @@
 # ACZ-debian-dotfiles
 
-These are my dotfiles for Debian; it's still under development.
+
+# We all come from NWHR
+# BSPWM Environment Installer for Debian
+# With Kali Linux repositories
+# Execute with: sudo ./install.sh
